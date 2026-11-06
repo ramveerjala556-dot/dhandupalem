@@ -1,0 +1,6 @@
+{
+  "name": "Friends Flappy Bird",
+  "description": "Play as your friends in this Flappy Bird arcade game with custom faces, matching theme songs, animated physics, and high scores.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
